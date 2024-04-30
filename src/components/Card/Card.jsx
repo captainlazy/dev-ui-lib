@@ -1,6 +1,7 @@
 import React from "react";
 import { Badge } from "../Badge/Badge";
 import './Card.css'
+import '../index.css'
 
 export const Card = ({heading, textData, impressions, color, label}) => {
     return (<div class="relative flex flex-col mt-6 text-gray-700 bg-white shadow-md bg-clip-border rounded-xl w-72">

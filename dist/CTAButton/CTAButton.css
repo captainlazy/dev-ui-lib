@@ -1,0 +1,15 @@
+.cta-button-default {
+  background-color: #bff90b;
+  color: #012a38;
+}
+
+.cta-button-outline {
+  background-color: #012a38;
+  color: #bff90b;
+  border: 3px solid #bff90b;
+}
+
+.flex-gap {
+  gap: 1em;
+  align-items: center;
+}

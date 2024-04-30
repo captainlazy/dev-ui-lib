@@ -1,9 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import { Notification } from "./components";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
+      <Notification type="success" message="$150,000 Deal closed" />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>

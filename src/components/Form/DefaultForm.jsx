@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { TextInput, SelectInput, Checkbox } from "./FormComponents";
 import { CTAButton } from "../CTAButton/CTAButton";
+import '../index.css'
 import './Form.css'
 
 export const DeafaultForm = () => {

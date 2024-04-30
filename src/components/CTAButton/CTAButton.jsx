@@ -1,5 +1,6 @@
 import React from "react";
 import './CTAButton.css'
+import '../index.css'
 import {  ArrowRightIcon } from '@heroicons/react/24/solid'
 
 export const CTAButton = (props) => {

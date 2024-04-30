@@ -1,0 +1,8 @@
+.badge {
+  padding-left: 2em;
+  padding-right: 2em;
+  border-radius: 20px;
+}
+.badge-impression {
+  justify-content: space-between;
+}
