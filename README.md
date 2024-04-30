@@ -1,5 +1,7 @@
 # This project is mainly developed using Storybook to test components on the go.
 
+`npm package link` : https://www.npmjs.com/package/dev-ui-library-cb 
+
 ## Available Scripts
 
 In the project directory, you can run:
